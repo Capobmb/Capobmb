@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Products other than my repositories on GitHub:  
+
+| Product | Repository |
+| --- | --- |
+| [iGEM Kyoto Wiki 2023](https://2023.igem.wiki/kyoto/) | [GitLab repository](https://gitlab.igem.org/2023/kyoto) |
+
+Status 👇  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=capobmb&count_private=true&show_icons=true&&theme=dark" />
 </a>
